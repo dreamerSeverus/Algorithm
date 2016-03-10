@@ -1,4 +1,4 @@
-package severus.webcode;
+package severus.basicAlgorithm;
 
 public class RadixSort {
 
